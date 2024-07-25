@@ -13,8 +13,8 @@ persons = [
     }
 ]
 
-# print(type(persons))
+# print(type(persons)) # see TYPE
 
-print(persons[0].get("age"))
+print(persons[0].get("age"))  # specific value  asses (.get("Value name")
 print(persons[1])
 print(persons[2])
