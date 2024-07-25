@@ -14,11 +14,11 @@ person= {
 
 # way:1
 print(person["name"])
-# print(person["email"])
-#
-# # way:2
-# print(person.get("name"))
-# print(person.get("age"))
+print(person["email"])
+
+# way:2
+print(person.get("name"))
+print(person.get("age"))
 
 
 
