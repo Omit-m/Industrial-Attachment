@@ -3,4 +3,4 @@
 
  Author : 
  
-Hay, this is omit. now I am a diploma student in 4th year and my last semester(8th semester) is going on. this semester all diploma students are going on their industrial attachment and me also. That's why this repository name is Industrial-Attachment.
+Hay, this is omit. now I am a diploma student in 4th year and my last semester   (8th semester) is going on. this semester all diploma students are going on their industrial attachment and me also. That's why this repository name is Industrial-Attachment.
