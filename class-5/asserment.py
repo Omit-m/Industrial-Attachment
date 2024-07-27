@@ -1,3 +1,11 @@
+"""
+Write a list which contains 5 players of Bangladesh Cricket Board
+Write another list which contains only 5 booleans (each data represent each player is retired or not)
+Write another list which contains 5 numbers (each number's are player age)
+Input: user's name , user's age , user is reteired
+Decision , Shakib is a player and retired or his age is below 40
+"""
+
 
 players = ["Sakib Al Hasan", "Tamim Iqbal", "Mushfiqur Rahim", "Mahmudullah Riyad", "Liton Das"]
 retired_status = [False, True, True, True, False]
