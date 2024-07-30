@@ -6,5 +6,5 @@ compare= a>b
 if compare==True:
     print(" the compare is true  ") # then execute if
 else:
-    print(" if the compare is false ") # ,then execute else
+    print(" the compare is false ") # ,then execute else
     
