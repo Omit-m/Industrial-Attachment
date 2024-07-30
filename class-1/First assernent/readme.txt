@@ -1,4 +1,4 @@
-it was my first program in industrial-attachment .my unbearable sir (Nahid sir ) asked a question to check our basic
+it was my first program in industrial-attachment .my programing teacher  (Nahid sir ) asked a question to check our basic
  in Python programming language and here is the answer.
 
 
