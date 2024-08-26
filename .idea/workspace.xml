@@ -5,9 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50e2c24c-dba9-473c-a4ec-cca9caee424b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Home_Study/dispatched/demo_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home_Study/List_Compraction/demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home_Study/List_Compraction/demo_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home_Study/dispatched/demo_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home_Study/reduce/demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home_Study/reduce/demo_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class-11/02.0.py" beforeDir="false" afterPath="$PROJECT_DIR$/class-11/02.0.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home_Study/List_Compraction.py" beforeDir="false" afterPath="$PROJECT_DIR$/Home_Study/List_Compraction/List_Compraction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home_Study/Turtale.py" beforeDir="false" afterPath="$PROJECT_DIR$/Home_Study/Turtale/Turtale.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home_Study/Turtale_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Home_Study/Turtale/Turtale_02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home_Study/demo2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home_Study/dispatched/demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Home_Study/dispatched/demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home_Study/dispatched/demo_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class-12/string.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/class-12/string.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +41,9 @@
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2kSeL0y8ip8XqxUK4ofHipibkG1" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -46,12 +59,15 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\8 semister\Class_data\Industrial-Attachment\Home_Study\reduce" />
+      <recent name="E:\8 semister\Class_data\Industrial-Attachment\Home_Study\List_Compraction" />
+      <recent name="E:\8 semister\Class_data\Industrial-Attachment\Home_Study\Turtale" />
       <recent name="E:\8 semister\Class_data\Industrial-Attachment\Home_Study" />
       <recent name="E:\8 semister\Class_data\Industrial-Attachment\Home_Study\dispatch" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.demo_1">
-    <configuration name="01.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.03.1">
+    <configuration name="03.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Industrial-Attachment" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -63,7 +79,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class-11/01.1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class-11/03.1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -72,7 +88,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02.0" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="List_Compraction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Industrial-Attachment" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,11 +96,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class-11" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Home_Study/List_Compraction" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class-11/02.0.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Home_Study/List_Compraction/List_Compraction.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -93,7 +109,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="demo (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Industrial-Attachment" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -101,32 +117,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class-11" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Home_Study/List_Compraction" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class-11/04.1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Industrial-Attachment" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Home_Study" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="E:\8 semister\Class_data\Industrial-Attachment\Home_Study\dispatch\demo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Home_Study/List_Compraction/demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,11 +138,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Home_Study/dispatched" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Home_Study/reduce" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Home_Study/dispatched/demo_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Home_Study/reduce/demo_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo_2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Industrial-Attachment" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Home_Study/List_Compraction" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Home_Study/List_Compraction/demo_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.03.1" />
         <item itemvalue="Python.demo_1" />
-        <item itemvalue="Python.02.0" />
-        <item itemvalue="Python.demo" />
-        <item itemvalue="Python.01.1" />
-        <item itemvalue="Python.04.1" />
+        <item itemvalue="Python.demo (2)" />
+        <item itemvalue="Python.demo_2 (1)" />
+        <item itemvalue="Python.List_Compraction" />
       </list>
     </recent_temporary>
   </component>
