@@ -1,8 +1,8 @@
 import json
 
 student = {
-    "id" : 1,
-    "name" : "nahid",
+    "id": 1,
+    "name": "nahid",
     "department": "computer science"
 }
 
