@@ -5,19 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50e2c24c-dba9-473c-a4ec-cca9caee424b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Home_Study/List_Compraction/demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Home_Study/List_Compraction/demo_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Home_Study/dispatched/demo_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Home_Study/reduce/demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Home_Study/reduce/demo_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home_Study/demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-13/14.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Home_Study/List_Compraction.py" beforeDir="false" afterPath="$PROJECT_DIR$/Home_Study/List_Compraction/List_Compraction.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Home_Study/Turtale.py" beforeDir="false" afterPath="$PROJECT_DIR$/Home_Study/Turtale/Turtale.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Home_Study/Turtale_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Home_Study/Turtale/Turtale_02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Home_Study/demo2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Home_Study/dispatched/demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Home_Study/dispatched/demo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Home_Study/dispatched/demo_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class-12/string.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/class-12/string.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home_Study/List_Compraction/demo_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Home_Study/List_Compraction/demo_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +45,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;last_opened_file_path&quot;: &quot;E:/8 semister/Class_data/Industrial-Attachment&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -66,8 +57,8 @@
       <recent name="E:\8 semister\Class_data\Industrial-Attachment\Home_Study\dispatch" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.03.1">
-    <configuration name="03.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.three-3">
+    <configuration name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Industrial-Attachment" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,11 +66,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class-11" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Home_Study/Project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class-11/03.1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Home_Study/Project/Main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,7 +79,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="List_Compraction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="one" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Industrial-Attachment" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,11 +87,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Home_Study/List_Compraction" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class-15/class-15/part-2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Home_Study/List_Compraction/List_Compraction.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class-15/class-15/part-2/one.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,7 +100,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="three-1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Industrial-Attachment" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -117,11 +108,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Home_Study/List_Compraction" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class-15/class-15/part-2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Home_Study/List_Compraction/demo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class-15/class-15/part-2/three-1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,7 +121,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="three-2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Industrial-Attachment" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,11 +129,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Home_Study/reduce" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class-15/class-15/part-2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Home_Study/reduce/demo_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class-15/class-15/part-2/three-2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,7 +142,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo_2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="three-3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Industrial-Attachment" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -159,11 +150,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Home_Study/List_Compraction" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class-15/class-15/part-2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Home_Study/List_Compraction/demo_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class-15/class-15/part-2/three-3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.03.1" />
-        <item itemvalue="Python.demo_1" />
-        <item itemvalue="Python.demo (2)" />
-        <item itemvalue="Python.demo_2 (1)" />
-        <item itemvalue="Python.List_Compraction" />
+        <item itemvalue="Python.three-3" />
+        <item itemvalue="Python.three-2" />
+        <item itemvalue="Python.three-1" />
+        <item itemvalue="Python.one" />
+        <item itemvalue="Python.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -192,5 +183,15 @@
       <updated>1723281345333</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/class-13/12.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
