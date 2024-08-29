@@ -17,13 +17,13 @@ x = [
 
 # Filter the list to find the item with "id" = 1
 
-y= next(item for item in x if item["id"] == 1)
-# def filtered_item():
-#     for item in x:
-#         if item["id"] == 1:
-#             return item
-#
-# y=filtered_item()
+#y= next(item for item in x if item["id"] == 1)
+def filtered_item():
+    for item in x:
+        if item["id"] == 1:
+            return item
+
+y=filtered_item()
 
 # Convert the filtered item to JSON with indentation
 z = json.dumps(y, indent=2)
