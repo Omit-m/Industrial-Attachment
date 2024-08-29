@@ -28,5 +28,5 @@ x = [
     }
 ]
 
-
+# the result is a JSON string
 print(json.dumps(x, indent = 2))

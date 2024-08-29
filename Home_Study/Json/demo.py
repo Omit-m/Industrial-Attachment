@@ -27,5 +27,5 @@ y= next(item for item in x if item["id"] == 1)
 
 # Convert the filtered item to JSON with indentation
 z = json.dumps(y, indent=2)
-
+# the result is a JSON string
 print(z)
