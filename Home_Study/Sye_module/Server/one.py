@@ -1,2 +1,2 @@
 def connect(name):
-    print(f"hello {name} run server folder")
+    print(f"hello {name} run your server folder")
