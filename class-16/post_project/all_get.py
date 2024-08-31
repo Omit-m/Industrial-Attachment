@@ -2,7 +2,7 @@ import requests
 
 URL = "https://jsonplaceholder.typicode.com/posts"
 
-
+#   Syntax : requests.method_name(params)
 response = requests.get(URL, timeout=5)
 
 print(response.status_code)
