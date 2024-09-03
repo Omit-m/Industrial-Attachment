@@ -1,4 +1,4 @@
-from datetime import datetime, timedelta
+from datetime import *
 
 prev_10 = datetime.now() - timedelta(days=10)
 print(prev_10)
