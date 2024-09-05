@@ -176,4 +176,11 @@ Class-18 :
 [*] Asynchronous Programming
 [*] Request Modul
 [*] Datetime Modul
+
+Class-19 :
+[*] mathod
+[*] Access modifier
+[*] getter setter 
+[*] property
+[*] magic method / dunder method
 </h2>
