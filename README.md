@@ -54,14 +54,14 @@ Class-7 :
 
 Class-8 :
 
-# Nested for loop
+[*]  Nested for loop
 
 Function (today)
-1. Function Definition , Doc string
-2. Return statement
-3. Parameter & Argument , Multiple Parameter
-4. Positional argument, Default Parameter (Optional Parameter), Keyword argument
-5. Multiple Return
+[*]  Function Definition , Doc string
+[*]  Return statement
+[*]  Parameter & Argument , Multiple Parameter
+[*] Positional argument, Default Parameter (Optional Parameter), Keyword argument
+[*] Multiple Return
 
 Class-9 :
 [*] *args, **kwargs
@@ -74,10 +74,10 @@ Class-9 :
 [*] Decorator
 [*] Function Annotation
 [*] function_tools
-	* partials
-	* wraps
-	* lru_cache
-	* reduce
+	[+] partials
+	[+] wraps
+	[+] lru_cache
+	[+] reduce
 
 Class-10:
 
@@ -88,29 +88,29 @@ Class-10:
 Class-11 :
 [*] Function Annotation
 [*] function_tools
-	* wraps
-	* reduce
-    * dispatched
-	* lru_cache (To know more  about  caching: https://hackernoon.com/5-caching-mechanisms-to-speed-up-your-application)
-	* partials
+	[+] wraps
+	[+] reduce
+    [+] dispatched
+	[+] lru_cache (To know more  about  caching: https://hackernoon.com/5-caching-mechanisms-to-speed-up-your-application)
+	[+] partials
 
 Class-12 :
 
 [*]String
-    slice
-    upper()
-    lower()
-    capitalize()
-    strip()
-    replace(old,new)
-    format()
+    [+]slice
+    [+]upper()
+    [+]lower()
+    [+]capitalize()
+    [+]strip()
+    [+] replace(old,new)
+    [+]format()
         - with placeholder
         - without placeholder
     [+]find()
-   [+] split()
-   [+] join()
+    [+] split()
+    [+] join()
     [+]startswith()
-   [+] endswith()
+    [+] endswith()
     [+]isdigit()
     [+]isalpha()
     [+]isspace()
