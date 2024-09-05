@@ -7,8 +7,7 @@ Hay, this is omit. now I am a diploma student in 4th year and my last semester  
 is going on. this semester all diploma students are going on their industrial attachment and me also.
 That's why this repository name is Industrial-Attachment.
 
-
-Class_Indexing : 
+<h2> Class_Indexing : 
     
 class-1: 
 Python introduction :
@@ -176,4 +175,4 @@ Class-18 :
 
 [*] Asynchronous Programming
 [*] Request Modul
-[*] Datetime Modul
+[*] Datetime Modul</h2>
