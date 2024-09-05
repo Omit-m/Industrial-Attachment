@@ -1,22 +1,12 @@
-class Person :
+class Person:
 
-    def omit ( self ) :
-        """Constructor"""
-        print ( "hello" )
-        """
-        print("hello", self)
+    def name(self,age, S_N ):
+        print(f"Name : {self }\n Age : {age},\nSchool Name : {S_N}")
 
-        output : 
-            create reference by self : 
-            hello <__main__.Person object at 0x0000017D7317C1D0>
-            hello <__main__.Person object at 0x0000017D7317C250>
-            hello <__main__.Person object at 0x0000017D7317C290>
-            hello <__main__.Person object at 0x0000017D7317C2D0>
-            """
+    def call_all(self):
+        Person.name("omit",23,"Faridpur Polytechnic Institute" )
 
 
-# object creation
-obj1 = Person.omit ( "omit" )
-obj2 = Person ( )
-obj3 = Person ( )
-obj4 = Person ( )
+
+preson = Person()
+preson.call_all()
