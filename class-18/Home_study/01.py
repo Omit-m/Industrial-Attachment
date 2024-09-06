@@ -12,7 +12,7 @@ async def get_post(post_id):
 
 async def get_all_post():
     all_task=[]
-    for id in range(1,40):
+    for id in range(1,101):
         task=asyncio.create_task(get_post(post_id = id))
         all_task.append(task)
 
