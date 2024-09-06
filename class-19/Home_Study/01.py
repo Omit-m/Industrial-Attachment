@@ -18,7 +18,7 @@ class Person :
         self.__age = age
         self.__salary = salary
 
-    def get_age ( self ) :
+    def get_age(self):
         """
         Gets the age of the person.
 
@@ -80,8 +80,8 @@ print(f"Name: {persons.name}\nNumber: {persons.number}\nAge: {persons.get_age ( 
 print("_____________________________________________________________________________")
 
 # Updating the age and setting the salary with bonus
-persons.update_age ( New_age = 25 )
-persons.set_salary ( New_salary = 25000 , bonus = True )
+persons.update_age(New_age = 25)
+persons.set_salary(New_salary = 25000, bonus = True)
 
 # Printing updated details
 print (
