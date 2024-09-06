@@ -17,6 +17,7 @@ class Person:
             raise ValueError("Couldn't set salary under 10k")
 
         if bonus:
+            self.__salary = new_salary
             self.__bonus_calculator()
         else:
             self.__salary = new_salary
@@ -30,12 +31,13 @@ p = Person(name="nahid", email="dbc@gmail.com", salary=200000)
 # p.name = 'jahid'
 
 # set
-p.set_salary(new_salary=25000)
+
 
 # get
 print(p.get_salary())
 
+# update salary with bonus
 p.set_salary(new_salary=25000, bonus=True)
-print(p.get_salary())
+print(f"Name: {p.name}\nSalary: {p.get_salary()}")
 
 
