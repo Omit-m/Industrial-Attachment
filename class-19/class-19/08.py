@@ -25,7 +25,7 @@ class Person:
         self.__salary += (self.__salary * 10) / 100
 
 
-p = Person(name="nahid", email="dbc@gmail.com", salary=20000)
+p = Person(name="nahid", email="dbc@gmail.com", salary=200000)
 
 # p.name = 'jahid'
 
@@ -38,4 +38,4 @@ print(p.get_salary())
 p.set_salary(new_salary=25000, bonus=True)
 print(p.get_salary())
 
-p.set_salary(new_salary=500)
+p.set_salary(new_salary=50000)

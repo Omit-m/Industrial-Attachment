@@ -10,7 +10,8 @@ class Person:
 
 
 p1 = Person(name="nahid", email="dbc@gmail.com")
-
 # print(p1.__dict__)
-
-print(dir(p1))
+p2 = Person(name="nahid", email="dbc@mail.com") #  output = False
+print(p1.is_valid_email())
+print(p2.is_valid_email())
+# print(dir(p1))
