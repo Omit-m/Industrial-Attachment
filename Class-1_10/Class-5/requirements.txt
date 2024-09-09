@@ -1,3 +1,0 @@
-[*] Type Casting [ int() str() float() ]
-[*] Coditional Operator [ and or not ]
-[*] Membership Operator [ in ]
