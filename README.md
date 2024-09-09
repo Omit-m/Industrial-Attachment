@@ -11,10 +11,10 @@ That's why this repository name is Industrial-Attachment.
     
 class-1: 
 Python introduction :
-[*] What is Python?
-[*] What can Python do?
-[*] Why Python?
-[*] Python Syntax compared to other programming languages
+[] What is Python?
+[] What can Python do?
+[] Why Python?
+[] Python Syntax compared to other programming languages
 
 Class-2 : 
 [*] Variables
