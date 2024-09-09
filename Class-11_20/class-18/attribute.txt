@@ -1,0 +1,4 @@
+class -> attribute -> (
+    1. instance / object attribute ,
+    2. class attribute
+)
