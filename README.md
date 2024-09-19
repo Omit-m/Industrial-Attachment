@@ -7,7 +7,7 @@ Hay, this is omit. now I am a diploma student in 4th year and my last semester  
 is going on. this semester all diploma students are going on their industrial attachment and me also.
 That's why this repository name is Industrial-Attachment.
 
-<h2> Class_Indexing :
+Class_Indexing :
     
 class-1: 
 Python introduction :
@@ -183,4 +183,13 @@ Class-19 :
 [*] getter setter 
 [*] property
 [*] magic method / dunder method
-</h2>
+
+
+Class-20 :
+
+[*] Inheritance
+[*] Multi-Level Inheritance
+[*] Mutiple Inheritance
+[*] Classmethod , staticmethod
+
+Class-21 :
