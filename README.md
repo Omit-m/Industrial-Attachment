@@ -193,3 +193,25 @@ Class-20 :
 [*] Classmethod , staticmethod
 
 Class-21 :
+
+[*] 4 Pillars of OOP
+[*] SOLID
+
+Class-22 :
+
+[*] Error Handling
+[*] File Handling
+[*] Context Manager
+[*] JSON Data
+[*] Iterator
+[*] Generator
+
+Class-23 :
+
+Class-24 :
+
+[*] DATABASE DESIGN 
+
+Class-25 :
+
+[*] DATABASE IMPLEMENT
