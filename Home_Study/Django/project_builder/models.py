@@ -6,8 +6,12 @@ class project(models.Model):
 
 class location(models.Model):
     address = models.TextField()
+    null=True,
+    blank = True ,
     project = models.OneToOneField('project',
-    on_delete = models.SET_NULL,related_name='location' )
+    on_delete = models.SET_NULL,related_name='location'
+  
+    )
 
 
 
