@@ -1,3 +1,4 @@
+
 """
 Django settings for todo_project project.
 
